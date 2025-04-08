@@ -11,8 +11,8 @@ This directory contains the code and plan for applying neural networks to the Be
 - `berkeley-earth-code/tcn_model.py` - Temporal Convolutional Network implementation
 - `berkeley-earth-code/lstm_model.py` - LSTM/GRU Network implementation
 - `berkeley-earth-code/convlstm_model.py` - Convolutional LSTM implementation
-- `berkeley-earth-code/data_preprocessing.py` - Data preprocessing utilities
-- `berkeley-earth-code/training_utils.py` - Training and evaluation utilities
+- `berkeley-earth-code/data-preprocessing` - Data preprocessing utilities
+- `berkeley-earth-code/training-utils` - Training and evaluation utilities
 
 ## Using the Code in Spyder
 
