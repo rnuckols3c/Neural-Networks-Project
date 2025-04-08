@@ -8,9 +8,7 @@ This directory contains the code and plan for applying neural networks to the Be
 - `berkeley-earth-plan.md` - Detailed project plan for neural network modeling
 
 ### Python Code Files
-- `berkeley-earth-code/tcn_model.py` - Temporal Convolutional Network implementation
-- `berkeley-earth-code/lstm_model.py` - LSTM/GRU Network implementation
-- `berkeley-earth-code/convlstm_model.py` - Convolutional LSTM implementation
+- `berkeley-earth-code/model-implementation` - Temporal Convolutional Network, LSTM/GRU Network, Convolutional LSTM implementation
 - `berkeley-earth-code/data-preprocessing` - Data preprocessing utilities
 - `berkeley-earth-code/training-utils` - Training and evaluation utilities
 
